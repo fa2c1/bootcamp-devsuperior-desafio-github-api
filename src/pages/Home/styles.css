@@ -1,0 +1,25 @@
+.home-container {
+    padding: 40px;
+}
+
+.txt-home-h1 {
+    color: #000;
+    font-weight: 700;
+    size: 48px;
+    line-height: 64px;
+    letter-spacing: 2%;
+}
+
+.txt-home-h3 {
+    color: #7E7E7E;
+    font-weight: 700;
+    size: 24px;
+    line-height: 40px;
+    letter-spacing: 2%;
+
+}
+
+.start-button {
+    background: #1890FF;
+    color: #fff;
+}
