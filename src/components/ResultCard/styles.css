@@ -1,0 +1,25 @@
+.result-container {
+  background-color: #fff;
+  border: 1px solid #D9D9D9;
+  box-sizing: border-box;
+  border-radius: 4px;
+  width: 100%;
+  border-radius: 5px;
+  padding: 10px;
+  display: flex;
+  flex-direction:row;
+  align-items: left;
+  margin-bottom: 10px;
+}
+
+.result-title {
+  color: #737373;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.result-description {
+  color: #737373;
+  font-size: 14px;
+  margin-left: 5px;
+}
